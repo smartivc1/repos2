@@ -1,7 +1,5 @@
 CRUD EN DJANGO.
 
-Usando el CMD ingresar a la carpeta asignada ubicada en el escritorio.
-
 1.	Crear entorno virtual env-django.
 2.	Crear proyecto usando el framework Django con el nombre de crud-django.
 3.	Realizar migración de tablas a la base de datos.
